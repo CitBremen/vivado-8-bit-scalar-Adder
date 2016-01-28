@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# 
+# Start of session at: Thu Jan 21 23:12:46 2016
+# Process ID: 10832
+# Current directory: C:/Users/engrm_000/OneDrive/Vivado_Design_Suite/adder_intergrater/adder_intergrater.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/engrm_000/OneDrive/Vivado_Design_Suite/adder_intergrater/adder_intergrater.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/engrm_000/OneDrive/Vivado_Design_Suite/adder_intergrater/adder_intergrater.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
